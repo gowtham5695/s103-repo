@@ -1,5 +1,0 @@
-
-global
-status
-fresher
-gowtham

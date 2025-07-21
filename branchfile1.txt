@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is branch file
+=======
+this is first branch file
+>>>>>>> second
